@@ -3,7 +3,7 @@
 //  TraningApp
 //
 //  Created by 比嘉　和之 on 2015/06/28.
-//  Copyright (c) 2015年 比嘉　和之. All rights reserved.
+//  Copyright (c) 2015年 比嘉　和之. All rights reserved..
 //
 
 import UIKit
